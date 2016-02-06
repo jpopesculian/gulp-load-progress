@@ -1,0 +1,23 @@
+{
+  "name": "gulp-load-progress",
+  "version": "1.0.0",
+  "description": "Gulp plugin to assist in handling loading of javascript asynchronously",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpopesculian/gulp-load-progress.git"
+  },
+  "author": "Julian Popescu <jpopesculian@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpopesculian/gulp-load-progress/issues"
+  },
+  "homepage": "https://github.com/jpopesculian/gulp-load-progress#readme",
+  "dependencies": {
+    "gulp-insert": "^0.5.0",
+    "uglify-js": "^2.6.1"
+  }
+}
